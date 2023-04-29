@@ -1,4 +1,4 @@
-#Youtube Clone
+# Youtube Clone
 
 This project uses Youtube's API to search from youtube and shows relevant videos, where the user can also watch the video directly on the website.
 
